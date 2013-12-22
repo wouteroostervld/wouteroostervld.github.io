@@ -280,3 +280,5 @@ img.center {
 .icon-anchor {
 	font-size: 65%;
 }
+
+#follow-button { position: absolute; right: 3px; top: 3px; }
