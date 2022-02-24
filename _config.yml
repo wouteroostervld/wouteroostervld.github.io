@@ -1,9 +1,0 @@
-name: wouteroostervld
-url: http://wouteroostervld.github.io
-description: subtitles suck
-
-permalink: /:year/:month/:day/:title/
-paginate: 10
-pygments: true
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
